@@ -1,0 +1,12 @@
+String
+Number
+Boolean
+Object {
+    Object
+    Array
+    Date
+}
+Null
+Undefined
+Symbol
+Bigint
